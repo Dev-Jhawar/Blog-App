@@ -49,3 +49,22 @@ Posts
 
   ---
 
+##  🔮 Future Enhancements
+
+🌐 Add pagination for posts & comments
+
+📸 Add image uploads for posts
+
+🔐 Password reset and email verification
+
+📝 Role-based access control (e.g., admin)
+
+📡 Transition to GraphQL or real-time (Socket.io) support
+
+  ---
+
+##  👤 Author
+
+Dev Jhawar – passionate about backend development, Node.js, and building clean APIs.
+
+Connect with me on GitHub or LinkedIn.
