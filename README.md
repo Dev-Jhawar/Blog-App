@@ -7,8 +7,7 @@ A robust and scalable RESTful API for a blogging platform. Built with **Node.js*
 ## 🔧 Features
 
 - 🔐 **User Auth**: Registration and login with JWT-based authentication  
-- 📝 **Posts**: Create, read, update, and delete blog posts  
-- 💬 **Comments**: Add and manage comments on posts  
+- 📝 **Posts**: Create, read, update, and delete blog posts   
 - 🛡️ **Validation & Error Handling**: Clean handling of invalid requests and errors  
 - 🧱 **Secure Passwords**: Hashed using bcrypt  
 - 📁 **Modular Code Structure**: Controllers, routes, models, and middleware separated for clarity
