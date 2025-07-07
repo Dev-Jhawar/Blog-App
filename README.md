@@ -27,7 +27,7 @@ A robust and scalable RESTful API for a blogging platform. Built with **Node.js*
 
 ---
 
-🧪 API Endpoints
+##  🧪 API Endpoints
 
 Auth
 
@@ -46,3 +46,6 @@ Posts
 - PUT /api/posts/:id – Update a post (requires auth & ownership)
 
 - DELETE /api/posts/:id – Delete a post (requires auth & ownership)
+
+  ---
+
