@@ -33,16 +33,16 @@ Auth
 
 - POST /api/auth/register – Register a new user
 
-= POST /api/auth/login – Authenticate user & receive JWT
+- POST /api/auth/login – Authenticate user & receive JWT
 
 Posts
 
-GET /api/posts – List all posts
+- GET /api/posts – List all posts
 
-GET /api/posts/:id – Get single post
+- GET /api/posts/:id – Get single post
 
-POST /api/posts – Create a post (requires auth)
+- POST /api/posts – Create a post (requires auth)
 
-PUT /api/posts/:id – Update a post (requires auth & ownership)
+- PUT /api/posts/:id – Update a post (requires auth & ownership)
 
-DELETE /api/posts/:id – Delete a post (requires auth & ownership)
+- DELETE /api/posts/:id – Delete a post (requires auth & ownership)
