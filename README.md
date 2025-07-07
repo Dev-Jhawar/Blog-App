@@ -1,6 +1,6 @@
 # 📝 Blog App – Backend API
 
-A robust and scalable RESTful API for a blogging platform. Built with **Node.js**, **Express**, and **MongoDB**, this backend supports user authentication, post management, and comment handling—perfect for powering modern web/blog applications.
+A robust and scalable RESTful API for a blogging platform. Built with **Node.js**, **Express**, and **MongoDB**, this backend supports user authentication, post management, perfect for powering modern web/blog applications.
 
 ---
 
