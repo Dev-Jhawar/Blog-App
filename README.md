@@ -28,12 +28,15 @@ A robust and scalable RESTful API for a blogging platform. Built with **Node.js*
 ---
 
 🧪 API Endpoints
-Auth
-POST /api/auth/register – Register a new user
 
-POST /api/auth/login – Authenticate user & receive JWT
+Auth
+
+- POST /api/auth/register – Register a new user
+
+= POST /api/auth/login – Authenticate user & receive JWT
 
 Posts
+
 GET /api/posts – List all posts
 
 GET /api/posts/:id – Get single post
