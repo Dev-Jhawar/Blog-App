@@ -63,8 +63,8 @@ Posts
 
   ---
 
-##  👤 Author
+ ## 👤 Author
 
-Dev Jhawar – passionate about backend development, Node.js, and building clean APIs.
+**Dev Jhawar**  
+Connect with me on [GitHub](https://github.com/Dev-Jhawar) | [LinkedIn](https://www.linkedin.com/in/dev-jhawar-in01/)
 
-Connect with me on [LinkedIn](www.linkedin.com/in/dev-jhawar-in01).
