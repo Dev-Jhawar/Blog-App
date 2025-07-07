@@ -67,4 +67,4 @@ Posts
 
 Dev Jhawar – passionate about backend development, Node.js, and building clean APIs.
 
-Connect with me on GitHub or LinkedIn.
+Connect with me on [LinkedIn](www.linkedin.com/in/dev-jhawar-in01).
